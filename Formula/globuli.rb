@@ -1,9 +1,9 @@
 class Globuli < Formula
   desc "Orchestrator that builds a product with coding agents"
   homepage "https://github.com/globulus/globuli-releases"
-  url "https://github.com/globulus/globuli-releases/releases/download/v0.5.7/globuli-0.5.7-darwin-arm64.tar.gz"
-  version "0.5.7"
-  sha256 "50f2a7efa8101a8e52948f79282609da603d45b585893433ddd372526fa0ad42"
+  url "https://github.com/globulus/globuli-releases/releases/download/v0.5.8/globuli-0.5.8-darwin-arm64.tar.gz"
+  version "0.5.8"
+  sha256 "8b620924117f1dc14c70b1df1fa215d4b25b8ec84f15ebf95541d01ee8db9da0"
   license :cannot_represent
 
   depends_on arch: :arm64
