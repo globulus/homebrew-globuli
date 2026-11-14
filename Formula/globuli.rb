@@ -1,11 +1,11 @@
-# Globuli 0.5.36 (D-594, D-623). Written by tools/release/publish.sh in the
+# Globuli 0.5.37 (D-594, D-623). Written by tools/release/publish.sh in the
 # Globuli repository; commit it as Formula/globuli.rb in globulus/homebrew-globuli.
 class Globuli < Formula
   desc "Orchestrator that builds a product with coding agents"
   homepage "https://github.com/globulus/globuli-releases"
-  url "https://github.com/globulus/globuli-releases/releases/download/v0.5.36/globuli-0.5.36-darwin-arm64.tar.gz"
-  version "0.5.36"
-  sha256 "1d8a4ba6a6446ccf0989fed1aa2c27f8a98344046917c3c63f38f213050656bf"
+  url "https://github.com/globulus/globuli-releases/releases/download/v0.5.37/globuli-0.5.37-darwin-arm64.tar.gz"
+  version "0.5.37"
+  sha256 "76762afdc4f47937987d8ee381629f81a1f87a828c4ddf1f75f492b6a42d73bd"
   license :cannot_represent
 
   depends_on arch: :arm64
